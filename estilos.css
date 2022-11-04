@@ -1,0 +1,23 @@
+h3 {
+    color: aqua;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+section{
+    background-color: unset;
+    border: 45px coral solid;
+    border-color: coral;
+    border-width: 45px;
+    border-style: solid;
+    text-align: center;
+    
+}
+
+img {
+    width: 150px;
+    /*height: 45px;*/
+}
